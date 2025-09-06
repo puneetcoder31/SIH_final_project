@@ -7,3 +7,5 @@ link of project :-
 
 [One-Stop Personalized Career & Education Advisor Project](https://drive.google.com/file/d/1odjIOgCxknef1pb9UDpLScar0hlnP4Qw/view?usp=drive_link)
 
+ZIP file size is 2.25 GB so it will take time to download it.
+
